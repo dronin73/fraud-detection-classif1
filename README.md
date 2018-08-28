@@ -1,2 +1,3 @@
 # fraud-detection-classif1
-Practice building fraud detection system, using kaggle credit card data set
+This series is largely just practice building various versions of raud detection system.  
+I'm starting with the kaggle credit card data set.
